@@ -1,0 +1,8 @@
+.env
+*.log
+*.config.json
+*.database
+.database-config.json
+/node_modules
+/.vscode
+logs/
