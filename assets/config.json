@@ -1,0 +1,5 @@
+{
+ "cookie": {"url":"https://chat.zalo.me","cookies":[{"name":"_ga","value":"GA1.2.1112523663.1759115789"},{"name":"zpsid","value":"YDs0.444820797.0._p-D2OoEqSInurBUW8xHnFdze_2ukkdslBdeyoTl6XmS4PuPZSah7UIEqSG"},{"domain":".chat.zalo.me","expirationDate":1767177474.226297,"hostOnly":false,"httpOnly":true,"name":"zpw_sek","path":"/","sameSite":"lax","secure":true,"session":false,"storeId":"0","value":"0-fX.444820797.a0.DThrkbai17faGOTWU2m4UY8EOH5x5YOORq9-AMvzIKzfTMqKDM8nBp4LS1yk4JbO98VbiO6ycpM4BKE0W4G4UW"},{"name":"__zi","value":"3000.SSZzejyD6zOgdh2mtnLQWYQN_RAG01ICFjIXe9fEM8WwdUMcdarPZNQRwwJRJL-DU9BlfZGu.1"},{"name":"__zi-legacy","value":"3000.SSZzejyD6zOgdh2mtnLQWYQN_RAG01ICFjIXe9fEM8WwdUMcdarPZNQRwwJRJL-DU9BlfZGu.1"},{"name":"ozi","value":"2000.QOBlzDCV2uGerkFzm09Urs3IxFh50LdHBTVh-801Nz4Ztk_wD3W.1"},{"name":"app.event.zalo.me","value":"127537934433970508"},{"name":"_zlang","value":"vn"}]},
+    "imei": "2dd68731-769e-4930-b08a-d460d6dc7c35-0fe6feb54289f4c67027ec06cc2131f8",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
